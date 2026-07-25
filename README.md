@@ -71,6 +71,10 @@
 
 ![图片说明](./images/价格.png)
 
+**测试ip属性**
+
+![图片说明](./images/xciptest.png)
+
 [👉 kittyNetwork云 官网注册入口](https://kitty.fo/register?invite=1GLKLMZO)
 
 重点就是便宜好用，没有之一，目前很多人在用。
