@@ -73,7 +73,7 @@
 
 **测试ip属性**
 
-![图片说明](./images/xciptest.png)
+![图片说明](./images/xciptest.jpg)
 
 [👉 kittyNetwork云 官网注册入口](https://kitty.fo/register?invite=1GLKLMZO)
 
